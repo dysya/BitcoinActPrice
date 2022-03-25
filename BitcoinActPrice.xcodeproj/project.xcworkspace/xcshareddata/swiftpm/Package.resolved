@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": "master",
+          "revision": "6eeff3c57e02f07c8494433aed8bf90532010089",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AppPear/ChartView",
+        "state": {
+          "branch": null,
+          "revision": "9115a992c91fa19cbb4f2241084240d38654a1fc",
+          "version": "1.5.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
